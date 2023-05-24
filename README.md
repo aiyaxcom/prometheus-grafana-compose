@@ -15,5 +15,5 @@ You can modify it to fit your needs.
 
 ```
 docker create network prometheus
-docker-compoose up -d
+docker-compose up -d
 ```
